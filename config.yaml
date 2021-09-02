@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: http://aman-sharma-lbs.netlify.app/
 languageCode: en-us
 title: Aman
 theme: forty
@@ -21,7 +21,7 @@ params:
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: amanakshay@gmail.com
         title: Email
     enable: yes
     phone:
