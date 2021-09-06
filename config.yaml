@@ -81,8 +81,8 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
+      - image: london-business-school-Campus.jpeg
+        subtitle: Pre Programme R Project
         title: Pre Programme
         url: blogs/amansharma
       - image: pic02.jpg
