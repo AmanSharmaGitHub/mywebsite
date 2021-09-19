@@ -6,26 +6,25 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Learn more
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Aman
+      I AM BRITISH AND CURRENTLY STUDYING FOR MY MASTERS AT LONDON BUSINESS SCHOOL. WELCOME TO MY PORTFOLIO WEBSITE!
+    title: Hello! I am Aman.
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: Maidenhead
+        country: United Kingdom
+        street: Cox Green Road
         title: Address
-    buttonClear: Clear
-    buttonSend: Send message
+    buttonClear: Start again
+    buttonSend: Say Hello!
     email:
       - email: amanakshay@gmail.com
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (079) 158-78963
         title: Phone
   custom_css: []
   custom_js: []
@@ -38,7 +37,7 @@ params:
     copyright: Company Name
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
+      - alt: Aman
         text: 'Design: '
         url: https://www.html5up.net
     social:
@@ -53,15 +52,15 @@ params:
         url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://www.github.com/AmanSharmaGitHub
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/amanakshaysharma
   image: ''
   name: Your name
   navigation:
     button1:
-      - name: Get Started
+      - name: Read More
         url: blogs
     button2:
       - name: Log In
@@ -76,43 +75,31 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: portfolio website
+    title: AMAN
   tiles:
     enable: yes
     showcase:
       - image: london-business-school-Campus.jpeg
-        subtitle: Pre Programme R Project
-        title: Pre Programme
+        subtitle: Snapshot of my story so far
+        title: About Me
         url: blogs/amansharma
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: Applied Statistics in R
+        title: Homework 1
+        url: blogs/homeworkone
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        subtitle: Applied Statistics in R
+        title: Homework 2
+        url: blogs/homeworktwo
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        subtitle: Applied Statistics in R
+        title: Homework 3
+        url: blogs/homeworkthree
+  
   two:
-    buttonText: Get Started
+    buttonText: Check it out
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "Welcome to my portfolio website. Here you can find some work I have done on R while studying at London Business School."
+    title: Welcome!
     url: blogs
